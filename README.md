@@ -1,0 +1,1 @@
+This Python script estimates reach-scale bias in particulate and total phosphorus fluxes inferred from depth concentration measurements. It reconstructs channel hydraulics, calibrates an effective particle settling–mixing scale from observed vertical profiles, evaluates Rouse-based concentration weighting, and propagates parameter uncertainty. 
